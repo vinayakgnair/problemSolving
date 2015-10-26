@@ -1,7 +1,7 @@
 # problemSolving
 
 
-This is the source file(s) for the program to validate Bael's Conjecture by brite force search
+This is the source file(s) for the program to validate Bael's Conjecture by brute force search
 
 Author: Vinayak G Nair
 This program was tested on a desktop PC and veryfied that Bael's Conjecture is true for all 64 bit calculations
