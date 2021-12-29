@@ -1,4 +1,4 @@
-# problemSolving
+# Bael Conjecture Proof
 
 
 This is the source file(s) for the program to validate Bael's Conjecture by brute force search
